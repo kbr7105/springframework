@@ -1,5 +1,7 @@
 Airline website by spring
 ![Slide1](https://github.com/dwdwdw12/project/assets/147116004/8b82ffb3-b53d-4f57-acd0-9483b95ba4ee)
+<details>
+<summary>목차</summary>
 ![Slide2](https://github.com/dwdwdw12/project/assets/147116004/e9df7646-4ac6-4355-b375-e9074f15aadd)
 ![Slide3](https://github.com/dwdwdw12/project/assets/147116004/11860b4c-8660-4420-a6f7-1343b2afa847)
 ![Slide4](https://github.com/dwdwdw12/project/assets/147116004/14ef5021-f0bd-4f4a-bbf2-22cf967562f4)
