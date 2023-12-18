@@ -53,6 +53,7 @@ Airline website by spring
 ![Slide51](https://github.com/dwdwdw12/project/assets/147116004/7c9ca239-82a5-4fd3-8b35-f45f6647e043)
 ![Slide52](https://github.com/dwdwdw12/project/assets/147116004/169c2b55-15d4-4511-80d6-ff499a65650f)
 <details>
+![header]([https://capsule-render.vercel.app/api](https://github.com/dwdwdw12/project/assets/147116004/e9df7646-4ac6-4355-b375-e9074f15aadd)?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <summary>목차</summary>
 <summary>1. 개발환경</summary>
 <summary>2. 개발일정</summary>
@@ -62,5 +63,6 @@ Airline website by spring
 <summary>6. ER 다이어그램</summary>
 <summary>7. Class 다이어그램</summary>
 <summary>8. 화면구현</summary>
+ ![header]([https://capsule-render.vercel.app/api](https://github.com/dwdwdw12/project/assets/147116004/e9df7646-4ac6-4355-b375-e9074f15aadd)?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90) 
 <details>
 <summary>개발환경</summary>
