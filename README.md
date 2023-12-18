@@ -54,5 +54,11 @@ Airline website by spring
 ![Slide52](https://github.com/dwdwdw12/project/assets/147116004/169c2b55-15d4-4511-80d6-ff499a65650f)
 <details>
 <summary>목차</summary>
-<summary>목차</summary>
-<summary>목차</summary>
+<summary>1. 개발환경</summary>
+<summary>2. 개발일정</summary>
+<summary>3. 역할분담</summary>
+<summary>4. 기능요구사항</summary>
+<summary>5. Usecase 다이어그램</summary>
+<summary>6. ER 다이어그램</summary>
+<summary>7. Class 다이어그램</summary>
+<summary>8. 화면구현</summary>
